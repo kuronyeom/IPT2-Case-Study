@@ -1,0 +1,27 @@
+body {
+    background-color: pink; 
+}
+.profile-card {
+    width: 330px;
+    height: 400px;
+    padding: 95px;
+    border: 1px solid rgb(180, 85, 180);
+    border-radius: 10px;
+    margin: 10px auto;
+    text-align: center;
+    box-shadow: 0 4px 8px;
+    font-family: courier, sans-serif;
+    font-size: medium;
+    font-weight: 100;
+    font-variant: normal;
+    background-color: rgb(241, 203, 234);
+    box-shadow: 15px 16px 5px rgba( 0, 0, 0, 0.2)
+}
+
+.profile-card img {
+    width: 180px;
+    height: 180px;
+    border-radius: 95%;
+    margin-bottom: 15px;
+    border: 2.5px solid rgb(215, 101, 230) ;
+}
